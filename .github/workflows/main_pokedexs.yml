@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pokedexs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C57AA65E4A69474692ACFAD74D5BD45D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_84F0E20A645C4D5FB3D888BF83866D3E }}
           package: .
